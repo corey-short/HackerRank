@@ -8,7 +8,7 @@ The first line of the input contains the list size T, which is followed by T lin
 
 ####Constraints
 
-<b>1 ≤T ≤100 </br> 
+<b>1 ≤T ≤100 <br> 
 0 ≤ integer < 2^32</b>
 
 ####Output Format
@@ -17,15 +17,15 @@ Output one line per element from the list with the requested result.
 
 ####Sample Input
 
-3 </br>
-2147483647 </br>
-1 </br>
+3 <br>
+2147483647 <br>
+1 <br>
 0
 
 ###Sample Output
 
-2147483648 </br>
-4294967294 </br>
+2147483648 <br>
+4294967294 <br>
 4294967295
 
 ####Explanation

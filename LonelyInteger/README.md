@@ -8,8 +8,8 @@ The first line of the input contains an integer N, indicating the number of inte
 
 ####Constraints
 
-<b>1≤N<100 </br> 
-N % 2=1 (N is an odd number) </br> 
+<b>1≤N<100 <br> 
+N % 2=1 (N is an odd number) <br> 
 0≤A[i]≤100,∀i∈[1,N] </b>
 
 ####Output Format
@@ -18,7 +18,7 @@ Output S, the number that occurs only once.
 
 ####Sample Input:1
 
-1</br>
+1<br>
 1
 
 ####Sample Output:1
@@ -27,7 +27,7 @@ Output S, the number that occurs only once.
 
 ####Sample Input:2
 
-3 </br>
+3 <br>
 1 1 2
 
 ####Sample Output:2
@@ -36,7 +36,7 @@ Output S, the number that occurs only once.
 
 ####Sample Input:3
 
-5 </br>
+5 <br>
 0 0 1 2 1
 
 ####Sample Output:3
