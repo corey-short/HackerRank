@@ -12,6 +12,7 @@ def find_lonely_integer(arg_list):
     print min(hashtable, key=hashtable.get)
 
 if __name__ == '__main__':
+
     n = input()
     # TODO: No bounds check on raw_input < n
     arg_list = map(int, raw_input().strip().split())
