@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/FlippingBits.iml" filepath="$PROJECT_DIR$/.idea/FlippingBits.iml" />
       <module fileurl="file://$PROJECT_DIR$/../LonelyInteger/.idea/Lonely Integer.iml" filepath="$PROJECT_DIR$/../LonelyInteger/.idea/Lonely Integer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../UtopianTree/.idea/UtopianTree.iml" filepath="$PROJECT_DIR$/../UtopianTree/.idea/UtopianTree.iml" />
     </modules>
   </component>
 </project>

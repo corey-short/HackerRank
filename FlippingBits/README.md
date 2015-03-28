@@ -8,8 +8,8 @@ The first line of the input contains the list size T, which is followed by T lin
 
 ####Constraints
 
-<b>1 ≤T ≤100 <br> 
-0 ≤ integer < 2^32</b>
+1 ≤T ≤100 <br> 
+0 ≤ integer < 2^32
 
 ####Output Format
 

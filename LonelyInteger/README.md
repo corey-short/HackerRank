@@ -8,9 +8,9 @@ The first line of the input contains an integer N, indicating the number of inte
 
 ####Constraints
 
-<b>1≤N<100 <br> 
+1≤N<100 <br> 
 N % 2=1 (N is an odd number) <br> 
-0≤A[i]≤100,∀i∈[1,N] </b>
+0≤A[i]≤100,∀i∈[1,N]
 
 ####Output Format
 
