@@ -20,9 +20,9 @@ S</b> is a valid ASCII string and doesn't contain any spaces.
 For each test case, print the encoded string.
 
 #####Sample Input
-`11
-middle-Outz
-2`
+`11`<br>
+`middle-Outz`<br>
+`2`
 
 #####Sample Output
 `okffng-Qwvb`
