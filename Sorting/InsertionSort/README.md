@@ -9,9 +9,10 @@ Since the array composed of just the first element is already "sorted", begin pr
 
 #####Input Format
 There will be two lines of input:
-
-+s - the size of the array
-+ar - a list of numbers that makes up the array
+<ol>
+<li>s - the size of the array</li>
+<li>ar - a list of numbers that makes up the array</li>
+</ol>
 
 #####Output Format
 On each line, output the entire array at every iteration.
